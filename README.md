@@ -12,6 +12,20 @@ py -m venv .venv
 
 Open http://127.0.0.1:8000. Replace the `serve` command with `build --strict` to validate the site.
 
-## Publish on GitHub Pages
+## Automatic deployment
 
-Commit and push the source to a dedicated repository with a remote named `origin`. On GitHub Free, use a public repository. Run `.\.venv\Scripts\python.exe -m mkdocs gh-deploy` to push the generated site to the `gh-pages` branch. In **Settings → Pages**, select **Deploy from a branch**, then **gh-pages** and **/(root)**. Rerun the deploy command after committing future updates.
+The workflow in `.github/workflows/deploy.yml` builds the site with `mkdocs build --strict` and deploys it to GitHub Pages on every push to `main`. It can also be run manually from **Actions → Deploy portfolio to GitHub Pages → Run workflow**.
+
+One-time setup: enable **Settings → Pages → Build and deployment → Source → GitHub Actions**. This public repository uses GitHub Pages on GitHub Free. Both the source repository and the deployed website are public.
+
+Site URL: https://dwightdoran.github.io/
+
+After deployment is enabled, publish changes with:
+
+```powershell
+git add docs mkdocs.yml requirements.txt README.md .github/workflows/deploy.yml
+git commit -m "Update portfolio"
+git push
+```
+
+Check the Actions run for build errors and deployment status. A failed build prevents deployment, leaving the last successful site in place. No personal access token or repository secret is needed by the workflow.
