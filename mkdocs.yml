@@ -1,0 +1,5 @@
+site_name: Dwight Doran | Cybersecurity Portfolio
+nav:
+  - Home: index.md
+  - Projects: projects.md
+  - Write-ups: write-ups.md
