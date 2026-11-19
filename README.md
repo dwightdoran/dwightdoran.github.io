@@ -1,6 +1,6 @@
 # Dwight Doran | Cybersecurity Portfolio
 
-I'm a software engineer and Army veteran studying cybersecurity through SANS. My interests include incident response and industrial control systems security. This portfolio documents my CTF participation, the skills I practiced, and how my approach to investigations is developing.
+I'm a software engineer focused on security and an Army veteran studying Applied Cybersecurity at SANS Technology Institute. Since 2022, I have built web applications, APIs, and data pipelines supporting government organizations. This portfolio connects my engineering experience with application security, incident response, and my interest in industrial control systems security.
 
 My interest in cybersecurity started a few years ago when I picked up a backlog ticket to fix a potential SQL injection vulnerability flagged by a security scan. The Ruby backend used raw SQL in that part of the application rather than Active Record, its object-relational mapper. After fixing the issue, I wanted to find other vulnerabilities in the codebase. That curiosity grew into a broader interest in cybersecurity and led me to pursue further study through SANS.
 
@@ -31,10 +31,21 @@ These are general reflections on my learning. This public portfolio does not rep
 
 Results are taken from the official scouting reports. Team results represent the combined performance of SANS.edu YARA. The report scores exclude the survey module.
 
-## Training and interests
+## Engineering experience
 
+- **Oddball Inc. — Software Engineer, August 2025–Present:** data integration and search capabilities supporting the VA, including SSIS pipelines, AWS services, React, Ruby on Rails, access controls, credential rotation, and logging that excludes sensitive personal and health information.
+- **Alpha Omega Integration — Fullstack Software Engineer, October 2023–August 2025:** Kafka ingestion, Ruby input validation, Databricks and SQL analysis, and Docker-based delivery workflows. Improved new-case throughput by 80% and ingestion and review speed by 50%.
+- **Sev1Tech LLC — Front-End Software Engineer, August 2022–October 2023:** React interfaces, Rails and Kafka integration, Section 508 accessibility, and CI/CD delivery. Contributed to cross-agency data pipelines that increased screening efficiency by 400%.
+
+[Read my engineering experience](docs/experience.md) · [View selected projects](docs/projects.md) · [LinkedIn](https://www.linkedin.com/in/dwightdoran)
+
+## Certifications and education
+
+- GIAC Foundational Cybersecurity Technologies (GFACT)
 - GIAC Security Essentials (GSEC)
-- Incident response and industrial control systems security
+- GIAC Certified Incident Handler (GCIH)
+
+**SANS Technology Institute:** Bachelor's degree in Applied Cybersecurity, expected 2027.
 
 ## About this site
 

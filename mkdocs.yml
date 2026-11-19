@@ -4,6 +4,7 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
+  - Experience: experience.md
   - CTF Experience: ctf-experience.md
   - Projects: projects.md
   - CTF Techniques:

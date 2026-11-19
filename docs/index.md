@@ -1,8 +1,14 @@
 # Dwight Doran
 
-I'm a software engineer and Army veteran studying cybersecurity through SANS. My interests include incident response and industrial control systems security.
+I'm a software engineer focused on security and an Army veteran studying Applied Cybersecurity at SANS Technology Institute. Since 2022, I have built web applications, APIs, and data pipelines supporting government organizations. My interests include application security, incident response, and industrial control systems security.
 
-This portfolio follows my learning through CTF participation, technical investigation, and reflection on the evidence behind my conclusions.
+This portfolio brings together my engineering experience, certifications, and learning through CTF participation and technical investigation.
+
+## Engineering background
+
+At Oddball, I work on data integration and search capabilities supporting the Department of Veterans Affairs. My experience includes secure input validation, access permissions, credential rotation, privacy-conscious logging, and automated delivery. Previous roles at Alpha Omega Integration and Sev1Tech included Kafka-based ingestion, Ruby on Rails APIs, and accessible React interfaces.
+
+[Explore my engineering experience and technical skills](experience.md).
 
 ## How I became interested in cybersecurity
 
@@ -31,12 +37,19 @@ My CTF work combines file and log analysis, packet inspection, password auditing
 
 [Explore my CTF techniques and lessons learned](ctf-techniques.md).
 
-## Training
+## Certifications and education
 
+- GIAC Foundational Cybersecurity Technologies (GFACT)
 - GIAC Security Essentials (GSEC)
+- GIAC Certified Incident Handler (GCIH)
+
+**SANS Technology Institute:** Bachelor's degree in Applied Cybersecurity, expected 2027.
 
 ## Explore my work
 
+- [Engineering experience](experience.md)
 - [Projects](projects.md)
 - [Write-ups and learning summaries](write-ups.md)
 - [CTF experience](ctf-experience.md)
+
+[Connect with me on LinkedIn](https://www.linkedin.com/in/dwightdoran).
