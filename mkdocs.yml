@@ -3,4 +3,6 @@ site_url: https://dwightdoran.github.io/
 nav:
   - Home: index.md
   - Projects: projects.md
-  - Write-ups: write-ups.md
+  - Write-ups:
+      - Overview: write-ups.md
+      - CTF Techniques: ctf-techniques.md
