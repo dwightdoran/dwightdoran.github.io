@@ -1,6 +1,6 @@
 # Dwight Doran | Cybersecurity Portfolio
 
-I'm a software engineer focused on security and an Army veteran studying Applied Cybersecurity at SANS Technology Institute. Since 2022, I have built web applications, APIs, and data pipelines supporting government organizations. This portfolio connects my engineering experience with application security, incident response, and my interest in industrial control systems security.
+I'm a software engineer focused on security and an Army veteran studying Applied Cybersecurity at SANS Technology Institute. Since 2022, I have built web applications, APIs, and data pipelines supporting government organizations. This portfolio connects my engineering experience with application security, incident response, and my interest in cloud security.
 
 My interest in cybersecurity started a few years ago when I picked up a backlog ticket to fix a potential SQL injection vulnerability flagged by a security scan. The Ruby backend used raw SQL in that part of the application rather than Active Record, its object-relational mapper. After fixing the issue, I wanted to find other vulnerabilities in the codebase. That curiosity grew into a broader interest in cybersecurity and led me to pursue further study through SANS.
 

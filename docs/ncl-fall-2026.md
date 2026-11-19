@@ -1,10 +1,10 @@
 # My CTF Experience
 
-Fall 2026 National Cyber League was my first CTF, and I participated as part of my cybersecurity learning through SANS. I brought a software engineering background to the exercises, but I was still nervous about my first competition, especially the team portion.
+Fall 2026 NCL was my first CTF. I was nervous, especially about the team portion, but the Gym exercises helped me realize I was more prepared than I had initially thought. I enjoyed the experience and came away wishing I had entered the Spring 2026 competition too.
 
-## From software engineering to security
+A highlight was completing all the Web App Exploitation questions for my team. We divided the work according to our strengths, and I took on a section my teammates felt less comfortable with or had not attempted in the Individual Game.
 
-My interest began with a backlog ticket for a potential SQL injection vulnerability that a security scan had flagged. I assigned myself the ticket and fixed the issue in a Ruby backend that used raw SQL in place of Active Record in that part of the application. Afterward, I became interested in finding other vulnerabilities in the codebase. CTF practice gave me another way to develop that curiosity and apply my programming experience to security problems.
+[Read my engineering experience](docs/experience.md)
 
 ## What I practiced
 
