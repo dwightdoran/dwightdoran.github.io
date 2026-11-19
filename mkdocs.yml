@@ -1,5 +1,7 @@
 site_name: Dwight Doran | Cybersecurity Portfolio
 site_url: https://dwightdoran.github.io/
+theme:
+  name: readthedocs
 nav:
   - Home: index.md
   - Projects: projects.md
