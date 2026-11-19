@@ -4,7 +4,7 @@ I'm a software engineer focused on security and an Army veteran studying Applied
 
 My interest in cybersecurity started a few years ago when I picked up a backlog ticket to fix a potential SQL injection vulnerability flagged by a security scan. The Ruby backend used raw SQL in that part of the application rather than Active Record, its object-relational mapper. After fixing the issue, I wanted to find other vulnerabilities in the codebase. That curiosity grew into a broader interest in cybersecurity and led me to pursue further study through SANS.
 
-[Visit my portfolio](https://dwightdoran.github.io/) · [Read my CTF reflection](docs/ctf-experience.md) · [Explore the techniques I practiced](docs/ctf-techniques.md)
+[Visit my portfolio](https://dwightdoran.github.io/) · [Read my CTF reflection](docs/ncl-fall-2026.md) · [Explore the techniques I practiced](docs/ctf-techniques.md)
 
 ## My CTF experience
 

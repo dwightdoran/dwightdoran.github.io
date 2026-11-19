@@ -47,6 +47,6 @@ My work spanned user interfaces, API integration, and automated delivery for gov
 | Application security | Authentication, authorization, input validation, secure coding, OWASP Top 10 |
 | Security analysis | Wireshark, Nmap, Burp Suite, network security, incident handling, threat detection |
 
-My [CTF experience](ctf-experience.md) and [technique notes](ctf-techniques.md) show how I am extending this engineering background into security investigation.
+My [CTF experience](ncl-fall-2026.md) and [technique notes](ctf-techniques.md) show how I am extending this engineering background into security investigation.
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/dwightdoran).

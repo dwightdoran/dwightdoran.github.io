@@ -14,7 +14,7 @@ Currently, I work on data integration and search capabilities supporting the Dep
 
 A few years ago, while working as a software engineer, I picked up a backlog ticket for a potential SQL injection vulnerability identified by a security scan. That part of the Ruby backend used raw SQL rather than Active Record, its object-relational mapper. I fixed the issue, then found myself wanting to look for other vulnerabilities in the codebase. What began as one ticket became a lasting interest in understanding how software can fail and how to make it more secure.
 
-[Read my CTF reflection and participation highlights](ctf-experience.md).
+[Read my CTF reflection and participation highlights](ncl-fall-2026.md).
 
 ## Applied skills
 
@@ -35,6 +35,6 @@ My CTF work combines file and log analysis, packet inspection, password auditing
 - [Engineering experience](experience.md)
 - [Projects](projects.md)
 - [Write-ups and learning summaries](write-ups.md)
-- [CTF experience](ctf-experience.md)
+- [CTF experience](ncl-fall-2026.md)
 
 [Connect with me on LinkedIn](https://www.linkedin.com/in/dwightdoran).

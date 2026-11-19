@@ -4,7 +4,7 @@ Fall 2026 NCL was my first CTF. I was nervous, especially about the team portion
 
 A highlight was completing all the Web App Exploitation questions for my team. We divided the work according to our strengths, and I took on a section my teammates felt less comfortable with or had not attempted in the Individual Game.
 
-[Read my engineering experience](docs/experience.md)
+[Read my engineering experience](experience.md)
 
 ## What I practiced
 

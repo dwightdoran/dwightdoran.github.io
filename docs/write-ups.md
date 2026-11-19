@@ -2,7 +2,7 @@
 
 ## CTF experience and reflection
 
-[My CTF Experience](ctf-experience.md) covers my NCL participation, general highlights, lessons learned, and scouting reports. It does not contain challenge walkthroughs.
+[My CTF Experience](ncl-fall-2026.md) covers my NCL participation, general highlights, lessons learned, and scouting reports. It does not contain challenge walkthroughs.
 
 ## Techniques from CTF practice
 
