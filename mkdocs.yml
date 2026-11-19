@@ -4,7 +4,16 @@ theme:
   name: readthedocs
 nav:
   - Home: index.md
+  - CTF Experience: ctf-experience.md
   - Projects: projects.md
-  - Write-ups:
-      - Overview: write-ups.md
-      - CTF Techniques: ctf-techniques.md
+  - CTF Techniques:
+      - Overview: ctf-techniques.md
+      - Digital Forensics: techniques/digital-forensics.md
+      - Log Analysis: techniques/log-analysis.md
+      - Network Traffic Analysis: techniques/network-traffic-analysis.md
+      - Password Auditing: techniques/password-auditing.md
+      - Web Application Analysis: techniques/web-application-analysis.md
+      - Reverse Engineering: techniques/reverse-engineering.md
+      - Encoding and Cryptography: techniques/cryptography.md
+      - Open-Source Intelligence: techniques/osint.md
+  - Write-ups: write-ups.md
